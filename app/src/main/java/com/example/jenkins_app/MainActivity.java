@@ -1,4 +1,4 @@
-package com.example.jenkins_app;
+//package com.example.jenkins_app;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
